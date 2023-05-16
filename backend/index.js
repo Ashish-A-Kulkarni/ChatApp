@@ -20,6 +20,7 @@ app.get("/",(req,res) => {
     res.send("Home Page CHAT APP");
 });
 
+//dummy commit
 // app.get("/api/chat", (req,res) => {
 //     res.send(chats);
 // });
